@@ -61,11 +61,11 @@ Install the following librarie(s) in your terminal...
 .  
 
 ### Navigate to the Ganache transactions tab and locate the transaction.
-![transaction](images/ganache.PNG)
+![transaction](Images/ganache.PNG)
  
 
 ## Streamlit application page, indicating the validity of the blockchain:
-![streamlit](images/fintech_app.PNG)
+![streamlit](Images/fintech_app.PNG)
 
 ---
 
