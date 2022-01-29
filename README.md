@@ -20,7 +20,7 @@
 
 ## Overview
 
-FinTech Finder is an online application that allows the user to identify and pay FinTech lockchain ledger system. While Python was used for the back-end code, Streamlit enhances the front-end user experience. While connected to Ganache, you will be able to track the who you paid and available funds using blockchain technology.
+FinTech Finder is an online application that allows the user to identify and pay FinTech candidates for hours contracted. While Python was used for the back-end code, Streamlit was used to enhance the front-end user experience. While connected to Ganache, you will also be able to track the who you paid and available funds using blockchain technology.
 
 ---
 
@@ -28,7 +28,6 @@ FinTech Finder is an online application that allows the user to identify and pay
 
 
 This project leverages python 3.7 and Streamlit, hashlib, web3, eth-tester, mnemonic and bip44.
-
 
 The following libraries were used:
 
